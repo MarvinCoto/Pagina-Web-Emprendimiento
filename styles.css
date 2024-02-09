@@ -1,0 +1,28 @@
+#divEmprendedores1
+{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#divEmprendedores2
+{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#Emprendedores
+{
+   
+    padding-left: 180px;
+    
+}
+
+#footer
+{
+    background-color: blue;
+    color: white;
+    padding: 40px;
+    border: 60px;
+}
