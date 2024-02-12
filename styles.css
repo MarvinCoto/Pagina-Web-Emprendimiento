@@ -27,3 +27,10 @@
     border: 60px;
 }
 
+#informacion
+{
+    background-color: gold;
+    color: blue;
+    border-style: solid;
+}
+
